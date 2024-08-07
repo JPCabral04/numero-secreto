@@ -24,6 +24,13 @@ body h3 {
   font-size: 2em;
   margin-top: 20px;
 }
+body .btn-jogar {
+  padding: 8px 15px;
+  border: 0;
+  background-color: #E8F9FD;
+  border-radius: 5px;
+  margin-top: 20px;
+}
 body .mensagem {
   font-size: 1.5em;
   margin-top: 40px;
