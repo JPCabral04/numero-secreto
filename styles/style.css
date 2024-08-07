@@ -17,6 +17,9 @@ body {
 body h1 {
   font-size: 5em;
 }
+body h2 {
+  font-size: 4em;
+}
 body h3 {
   font-size: 2em;
   margin-top: 20px;
